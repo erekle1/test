@@ -153,6 +153,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clips4sale" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -173,7 +174,7 @@
       <updated>1606383341825</updated>
       <workItem from="1606383344297" duration="7000" />
       <workItem from="1606383423903" duration="2897000" />
-      <workItem from="1606543653683" duration="3340000" />
+      <workItem from="1606543653683" duration="37332000" />
     </task>
     <servers />
   </component>
@@ -181,6 +182,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1606562914991">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1606562914991" />
+    <state x="416" y="155" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606590659259">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="155" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1366.741@0.27.1366.741" timestamp="1606590659259" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606555649716">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1606555649716" />
     <state width="1320" height="149" key="GridCell.Tab.0.bottom" timestamp="1606545212799">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -201,9 +214,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="337" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1606544557136" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606547041087">
+    <state x="321" y="92" width="724" height="610" key="find.popup" timestamp="1606563460773">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1606547041087" />
+    <state x="321" y="92" width="724" height="610" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1606563460773" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606594616363">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1606594616363" />
   </component>
 </project>
